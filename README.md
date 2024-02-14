@@ -1,7 +1,7 @@
 # WF-CNN
-Wiener Filter trained models for CMB maps with inhomogeneous noise applied. 
+Wiener Filter trained models for CMB temperature maps with inhomogeneous noise applied. 
 
-Simplified demonstrantion of the Wiener Filter (WF) reconstruction for Cosmic Microwave Background (CMB) maps with inhomogeneous noise applied, using Convolutional Neural Networks (CNN). The CNN models present here are the ones trained for the paper (https://arxiv.org/abs/2312.09943). 
+Simplified demonstration of the Wiener Filter (WF) reconstruction for Cosmic Microwave Background (CMB) maps with inhomogeneous noise applied, using Convolutional Neural Networks (CNN). The CNN models presented here are the ones trained for the paper (https://arxiv.org/abs/2312.09943).
 
 # Requirements: 
 
